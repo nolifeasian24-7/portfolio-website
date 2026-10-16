@@ -53,8 +53,6 @@ class _LifeState extends State<Life> {
                   Text("I started programming over the coronavirus national lockdown, as a suggestion from my friend"),
                   Text("one thing turned into another and soon I was capable of working with several languages, including Java, python, Csharp, javascript and dart.",overflow: TextOverflow.ellipsis),
                   Text("I also learned to work with APIs, making a discord bot user, and learned game development via unity, publishing a game on my github page...", overflow: TextOverflow.ellipsis),
-                  Text("Recently, something awesome happened to me, where I learned many important values and perceptions of life, this is called love :)"),
-                  Text("On the 20th November 2020, I met Aleyna Emek, and I love her to bits!"),
                   Text("In all honesty, I never expected to be here, I thank God and my family, my best friend Ethan and all my friends in General", overflow: TextOverflow.ellipsis),
                   Text("this website is made with flutter, and brought to you with love and desire to meet you all :)", overflow: TextOverflow.ellipsis),
                   Text("-Amal.", textScaleFactor: 2,),
